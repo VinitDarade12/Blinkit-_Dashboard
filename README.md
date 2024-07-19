@@ -66,3 +66,5 @@ KPI's Requirements
 2. Average Sales: The average revenue per sale.
 3. Number of Items: The total count of different items sold.
 4. Average Rating: The average customer rating for items sold. 
+
+The final Blinkit Dashboard : ![Screenshot 2024-07-20 012739](https://github.com/user-attachments/assets/04a1dbfb-472e-435a-b49e-a5e72dad9f28)
