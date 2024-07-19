@@ -1,7 +1,7 @@
 # Project-
-# Airlines-Dashboard
+# Blinkit-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/
+### Dashboard Link : https://app.powerbi.com/D:\Blinkit Analysis PowerBi Project
 
 ## Problem Statement
 
