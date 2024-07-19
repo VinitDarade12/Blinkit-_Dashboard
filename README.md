@@ -1,7 +1,7 @@
 # Project-
 # Blinkit-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/D:\Blinkit Analysis PowerBi Project
+### Dashboard Link : https://app.powerbi.com/Blinkit Analysis PowerBi Project
 
 ## Problem Statement
 
